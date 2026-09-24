@@ -1,0 +1,5 @@
+mkdir src tests docs
+python_lab/
+├── src/
+├── tests/
+└── docs/
